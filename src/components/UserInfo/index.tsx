@@ -5,7 +5,7 @@ import moment from "moment";
 
 import { Container } from "./styledComponents";
 import { MemberType } from "../../types";
-
+//THis is used to show multiple dates during which he was active
 interface Props {
   member: MemberType;
 }
